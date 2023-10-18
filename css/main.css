@@ -1,0 +1,33 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.bg-color-header{
+    background-color: #7facbc;
+}
+
+#navbar-items .navbar-nav{
+    display: flex;
+    justify-content: center; 
+    width: 100%;
+}
+
+.navbar-brand{
+    max-width: 60px;
+}
+
+img{
+    width: 70%;
+}
+
+.carousel-control-prev,
+.carousel-control-next{
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.img-fluid{
+
+    width: 10rem;
+}
